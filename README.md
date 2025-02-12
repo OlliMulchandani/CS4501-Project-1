@@ -9,3 +9,5 @@ You must first uncomment the following lines and run the program to collect and 
 # save_search_entries(html_content)
 ```
 Then re-comment them for all future runs.
+
+![daily_search_activity_correct](https://github.com/user-attachments/assets/a892ef93-0357-4adc-a264-9bb2faccf1a4)
