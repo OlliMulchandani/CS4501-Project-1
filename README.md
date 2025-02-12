@@ -1,3 +1,5 @@
+# Using Google Takeout to Infer Sleep Patterns from Search Activity 
+
 Download your Google Takeout and extract the .zip in the same directory as analyze.py and run. Of course, I did not include my Google Takeout data in this public repo as I probably have no data more private haha.
 
 You must first uncomment the following lines and run the program to collect and cache your search history (it's a very slow step, and for debugging reasons, best not to have to run it every time):
